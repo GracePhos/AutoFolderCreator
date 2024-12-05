@@ -7,6 +7,9 @@ Download the .bat file, place it in the folder you want to create a big amount o
 
 it will ask you the base name
 Basename means: in the folder where you place the bat, it will create (X) amount of folders with THIS name.
+
 Number of folders: How many folders with the specified name as before
+
 Subfolder quantity: how many subfolders inside the folders you've already created
+
 Names of the subfolders: for exaple, docs, images, links, references. you must separate them with a space.
